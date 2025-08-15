@@ -1,5 +1,18 @@
-<h1>Hi 👋</h1>
-<p>I'm Software Engineering student at E-soft  Metro Campus. I'm Also A photographer </p>
+
+<p>👋 Hi, I'm Sahan Hasira!
+🌱 Undergraduate | Software Engineering Student | 19 Years Old
+
+I'm an undergraduate student at ESOFT Metro Campus studying Software Engineering. I'm passionate about technology, programming, and continuously learning new skills. I'm here to build projects, share what I learn, and contribute to the open-source community.
+
+🚀 Skills & Interests
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS, PHP, SQL, WordPress, Next.JS
+- Other Interests: Cybersecurity, AI, Data Science, Game Development
+🎯 Current Goals
+Deepen my knowledge in software development and engineering principles
+Build projects to gain hands-on experience in full-stack development
+Contribute to open-source projects and expand my GitHub portfolio </p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
